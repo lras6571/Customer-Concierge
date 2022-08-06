@@ -1,0 +1,19 @@
+[
+  {
+    "referenceKey": "SBS_USER_LOGIN",
+    "request": {
+      "sbsUser": "Madison Dueitt",
+      "taxGroup": "MA",
+      "taxSupplement": "1",
+      "approveComments": "Test - SBS MDM Team Queue",
+      "supportRequestFilter": [
+        {
+          "supportRequestFilterType": "CMU Master Data Queue"
+        },
+        {
+          "supportRequestFilterType": "SBS Master Data Queue"
+        }
+      ]
+    }
+  }
+]

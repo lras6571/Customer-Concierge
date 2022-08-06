@@ -1,0 +1,31 @@
+[
+  {
+    "referenceKey": "SFDC_LEAD_USER",
+    "request": {
+      "marketingAssociate": "Thomas Flynn",
+      "mobileNumber": "(423) 456-1233",
+      "companyName": "Pizza House",
+      "weeklySales": "1234",
+      "firstName": "James",
+      "lastName": "Anderson",
+      "fullName": "James Anderson",
+      "dsm": "Joseph Gaudreau",
+      "leadRating": "Warm",
+      "opCo": "Boston",
+      "territory": "S606",
+      "contactEmail": "lasanrash@gmail.com",
+      "businessStructure": "Local",
+      "conversionType": "Prospect",
+      "leadBillToInfo": [
+        {
+          "billingStreet": "Highway 99",
+          "billingCity": "Brooklyn",
+          "billingState": "NY",
+          "billingPostalCode": "11215",
+          "billingCountry": "US"
+        }
+      ]
+    }
+  }
+
+]

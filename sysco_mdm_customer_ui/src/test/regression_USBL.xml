@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="regression" verbose="1" configfailurepolicy="continue">
+    <test name="regression">
+        <classes>
+            <class name = "com.sysco.mdm_customer.tests.usbl.leadCreation.LeadCreationTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.leadCreation.LeadConversionTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.street.StreetNewTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.street.StreetAdditionalLocationTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.street.StreetSecondaryShipToTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.SBSApprovalTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.cadd.CADDNewTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.cadd.CADDAdditionalTest"/>
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.cadd.CADDNewTRSProfileTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.cadd.CADDAdditionalTRSProfileTest"/>
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.cadd.CADDSecondaryTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.cadd.CADDSecondaryTRSProfileTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.ps.ProspectShopTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.ps.ProspectShopWithProspectTest" />
+            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.mrt.SingleOpCoMRTTest" />
+
+        </classes>
+    </test>
+</suite>

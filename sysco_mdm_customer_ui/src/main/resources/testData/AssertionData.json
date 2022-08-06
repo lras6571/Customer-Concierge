@@ -1,0 +1,82 @@
+[
+  {
+    "referenceKey": "USER_ASSERTION_01",
+    "request": {
+      "streetNewInitiateShipTo": [
+        {
+          "status": "Prospect",
+          "accountRole": "Ship To",
+          "accountCreateMaintain": "Initiated",
+          "applicationRequestType": "Transmitted",
+          "creditApplicationStatus": "Credit Application"
+        }
+      ],
+      "streetNSLInitiateShipTo": [
+        {
+          "status": "Prospect",
+          "accountRole": "Ship To",
+          "accountCreateMaintain": "Initiated",
+          "applicationRequestType": "Transmitted",
+          "creditApplicationStatus": "Credit Application"
+        }
+      ],
+      "streetNLAInitiateShipTo": [
+        {
+          "status": "Prospect",
+          "accountRole": "Ship To",
+          "accountCreateMaintain": "Initiated",
+          "applicationRequestType": "Transmitted",
+          "creditApplicationStatus": "Credit Application"
+        }
+      ],
+      "CADDNewInitiateShipTo": [
+        {
+          "status": "Prospect",
+          "accountRole": "Ship To",
+          "accountCreateMaintain": "Initiated",
+          "applicationRequestType": "Transmitted",
+          "creditApplicationStatus": "Credit Application"
+        }
+      ],
+      "CADDNSLInitiateShipTo": [
+        {
+          "status": "Prospect",
+          "accountRole": "Ship To",
+          "accountCreateMaintain": "Initiated",
+          "applicationRequestType": "Transmitted",
+          "creditApplicationStatus": "Credit Application"
+        }
+      ],
+      "CADDNLAInitiateShipTo": [
+        {
+          "status": "Prospect",
+          "accountRole": "Ship To",
+          "accountCreateMaintain": "Initiated",
+          "applicationRequestType": "Transmitted",
+          "creditApplicationStatus": "Credit Application"
+        }
+      ],
+      "MRTInitiateShipTo": [
+        {
+          "status": "Prospect",
+          "accountRole": "Ship To",
+          "accountCreateMaintain": "Initiated",
+          "applicationRequestType": "Transmitted",
+          "creditApplicationStatus": "Credit Application"
+        }
+      ],
+      "ProspectShopInitiateShipTo": [
+        {
+          "status": "Active - Pending Credit Approval",
+          "accountRole": "Ship To",
+          "accountCreateMaintain": "Initiated",
+          "applicationRequestType": "Transmitted",
+          "creditApplicationStatus": "Credit Application"
+        }
+      ]
+
+
+
+    }
+  }
+]

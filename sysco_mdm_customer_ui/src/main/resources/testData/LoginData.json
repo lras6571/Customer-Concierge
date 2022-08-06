@@ -1,0 +1,9 @@
+[
+  {
+    "referenceKey": "SFDC_USER_LOGIN",
+    "request": {
+      "username": "lasan.rashmika@sysco.com.staging",
+      "password": "Sysco@123"
+    }
+  }
+]

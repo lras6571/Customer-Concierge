@@ -1,0 +1,50 @@
+[
+  {
+    "referenceKey": "SFDC_MRT_USER",
+    "request": {
+      "marketingAssociate": "Hope Bell",
+      "mobileNumber": "(423) 456-1233",
+      "companyName": "Pizza House",
+      "weeklySales": "1234",
+      "firstName": "Josh",
+      "lastName": "Ben",
+      "fullName": "Josh Ben",
+      "dsm": "Diane Habhegger",
+      "leadRating": "Warm",
+      "opCo": "Boston",
+      "territory": "S606",
+      "contactEmail": "lasanrash@gmail.com",
+      "businessStructure": "Local",
+      "conversionType": "Prospect",
+      "leadBillToInfo": [
+        {
+          "billingStreet": "Highway 99",
+          "billingCity": "Brooklyn",
+          "billingState": "NY",
+          "billingPostalCode": "11215",
+          "billingCountry": "US"
+        }
+      ],
+      "leadShipToInfo": [
+        {
+          "shippingStreet": "1577 Aaron Smith Drive",
+          "shippingCity": "Harrisburg",
+          "shippingState": "MA",
+          "shippingPostalCode": "17111",
+          "shippingCountry": "US",
+          "shippingPhone": "717-756-7826",
+          "shipToAccountName": "Cake House"
+        }
+      ],
+      "contactInfo": [
+        {
+          "firstName": "Chris",
+          "lastName": "Harris",
+          "caddEmail": "lasanrash@gmail.com",
+          "mobileNumber": "479-647-4944",
+          "fullName": "Ricky Ponting"
+        }
+      ]
+    }
+  }
+]

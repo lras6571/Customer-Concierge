@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="regression" verbose="1" configfailurepolicy="continue">
+    <test name="regression">
+        <classes>
+            <!--                        <class name = "com.sysco.mdm_customer.tests.cfea.fp.accountCreation.FreshPointNewAccountTest"/>-->
+            <!--            <class name="com.sysco.mdm_customer.tests.usbl.accountCreation.street.StreetNewTest"/>-->
+            <!--            <class name="com.sysco.mdm_customer.tests.usbl.accountCreation.SBSApprovalTest"/>-->
+            <!--            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.SBSApprovalTest" />-->
+            <!--            <class name="com.sysco.mdm_customer.tests.cfea.af.accountCreation.AsianFoodsAdditionalAccountTest"/>-->
+            <!--            <class name="com.sysco.mdm_customer.tests.cfea.af.accountCreation.AsianFoodsAdditionalAccountTaxApprovalTest"/>-->
+            <!--            <class name = "com.sysco.mdm_customer.tests.usbl.accountCreation.ps.ProspectShopTest" />-->
+<!--            <class name = "com.sysco.mdm_customer.tests.cfea.fp.accountMaintenance.FreshPointInactivationTest"/>-->
+            <class name = "com.sysco.mdm_customer.tests.cfea.af.accountMaintenance.AsianFoodsInactivationTest"/>
+<!--                        <class name = "com.sysco.mdm_customer.tests.usbl.accountMaintenance.StreetReactivationTest" />-->
+        </classes>
+    </test>
+</suite>

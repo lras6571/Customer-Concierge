@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="regression" verbose="1" configfailurepolicy="continue">
+    <test name="regression">
+        <classes>
+            <class name = "com.sysco.mdm_customer.tests.cfea.af.leadCreation.AsianFoodsLeadCreationTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.af.accountCreation.AsianFoodsNewAccountTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.af.accountCreation.AsianFoodsNewAccountTaxApprovalTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.af.accountCreation.AsianFoodsAdditionalAccountTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.af.accountCreation.AsianFoodsAdditionalAccountTaxApprovalTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.af.accountCreation.AsianFoodsSecondaryAccountTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.af.accountCreation.AsianFoodsSecondaryAccountTaxApprovalTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.fp.leadCreation.FreshPointLeadCreationTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.fp.accountCreation.FreshPointNewAccountTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.fp.accountCreation.FreshPointNewAccountTaxApprovalTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.fp.accountCreation.FreshPointAdditionalAccountTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.fp.accountCreation.FreshPointAdditionalAccountTaxApprovalTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.fp.accountCreation.FreshPointSecondaryAccountTest" />
+            <class name = "com.sysco.mdm_customer.tests.cfea.fp.accountCreation.FreshPointSecondaryAccountTaxApprovalTest" />
+        </classes>
+    </test>
+</suite>

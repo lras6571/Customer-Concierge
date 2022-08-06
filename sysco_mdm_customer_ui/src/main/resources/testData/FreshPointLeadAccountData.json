@@ -1,0 +1,71 @@
+[
+  {
+    "referenceKey": "SFDC_CFEA_FP_LEAD_USER",
+    "request": {
+      "marketingAssociate": "Mario Arzapalo",
+      "taxApprover": "Michele Lussier",
+      "mobileNumber": "4234561233",
+      "companyName": "Fresh Food",
+      "weeklySales": "1234",
+      "firstName": "Tom",
+      "lastName": "Root",
+      "fullName": "Tom Root",
+      "leadName": "Fresh",
+      "leadRating": "Warm",
+      "opCo": "Boston",
+      "territory": "S606",
+      "language": "English",
+      "contactEmail": "lasanrash@gmail.com",
+      "businessStructure": "Local",
+      "conversionType": "Prospect",
+      "filter": "FreshPoint NCOB Queue",
+      "state": "MNSP",
+      "routingInformation": "routing_Information",
+      "nationalID": "localID",
+      "activeAccountName": "101 BAKERY & CAFE",
+      "activeAccountID": "115-101301",
+      "existingAccountName": "Fresh Food",
+      "leadBillToInfo": [
+        {
+          "billingStreet": "21st Street",
+          "billingCity": "Queens",
+          "billingState": "NY",
+          "billingPostalCode": "14215",
+          "billingCountry": "US"
+        }
+      ],
+      "accountInfo": [
+        {
+          "accountName": "Test Nestle Food",
+          "accountStreet": "1577 Aaron Smith Drive",
+          "accountCity": "Harrisburg",
+          "accountState": "MA",
+          "accountPostalCode": "17111",
+          "accountCountry": "United States",
+          "accountPhone": "717-756-7826",
+          "accountGroup": "Trade Receivables"
+        }
+      ],
+      "billToInfo": [
+        {
+          "billToAccountName": "Coffee Cafe",
+          "billingStreet": "25 Emerald Dreams Drive",
+          "billingCity": "Burr Ridge",
+          "billingState": "MA",
+          "billingPostalCode": "60527",
+          "billingCountry": "United States",
+          "billToOwner": "TRS"
+        }
+      ],
+      "contactInfo": [
+        {
+          "firstName": "Mitchell",
+          "lastName": "Stark",
+          "streetEmail": "lasanrash@gmail.com",
+          "mobileNumber": "479-647-4944"
+        }
+      ]
+    }
+  }
+
+]

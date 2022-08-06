@@ -1,0 +1,82 @@
+[
+  {
+    "referenceKey": "CADD_USER_LOGIN_01",
+    "request": {
+      "email": "lasanrash@gmail.com",
+      "sbsUser": "Tammy Graves",
+      "firstName": "Ricky",
+      "lastName": "Ponting",
+      "conceptName": "CAKECAKE",
+      "caddAccountType": "CMU",
+      "existingAccountName": "BARNES & NOBLE CORPORATE BILL",
+      "deliveryPreference": [
+        {
+          "deliveryDate": "Monday",
+          "startTime": "01:50",
+          "endTime": "23:09",
+          "openTime": "02:00",
+          "closeTime": "23:33"
+        }
+      ],
+      "cuisineAndOperationData": [
+        {
+          "typeOfCuisine": "BAKERY CAFE",
+          "typeOfOperation": "Education",
+          "localTypeOfOperation": "College/University"
+        },
+        {
+          "typeOfCuisine": "019",
+          "typeOfOperation": "Sysco Cincinnati",
+          "localTypeOfOperation": "College/University"
+        }
+      ],
+      "contactInfo": [
+        {
+          "firstName": "Ricky",
+          "lastName": "Ponting",
+          "caddEmail": "lasanrash@gmail.com",
+          "mobileNumber": "479-647-4944",
+          "fullName": "Ricky Ponting"
+        }
+      ],
+      "accountTypes": [
+        {
+          "accountType": "TRS"
+        },
+        {
+          "accountType": "OTH"
+        }
+      ],
+      "accountInfo": [
+        {
+          "accountName": "Best Taste",
+          "accountPhone": "717-756-7826",
+          "storeNumber": "123",
+          "accountStreet": "1577 Aaron Smith Drive",
+          "accountCity": "Harrisburg",
+          "accountState": "MA",
+          "accountPostalCode": "17111",
+          "accountCountry": "US"
+        }
+      ],
+      "billToInfo": [
+        {
+          "billToAccountName": "Best Taste Bill",
+          "billingStreet": "25 Emerald Dreams Drive",
+          "billingCity": "Burr Ridge",
+          "billingState": "MA",
+          "billingPostalCode": "60527",
+          "billingCountry": "US",
+          "billToOwner": "TRS"
+        }
+      ],
+      "territoryAssignment": [
+        {
+          "marketingAssociate": "Thomas Flynn",
+          "site": "056",
+          "territoryCode:": "S606"
+        }
+      ]
+    }
+  }
+]

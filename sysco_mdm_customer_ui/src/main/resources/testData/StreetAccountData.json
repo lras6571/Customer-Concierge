@@ -1,0 +1,100 @@
+[
+  {
+    "referenceKey": "STREET_USER_LOGIN_01",
+    "request": {
+      "email": "uthpalathilini405@gmail.com",
+      "marketingAssociate": "Thomas Flynn",
+      "firstName": "Michael",
+      "lastName": "Nicholas",
+      "prospectName": "Pizza House",
+      "activeAccountName": "PZZA HUTDESIVRETJL",
+      "activeAccountID": "056-158796",
+      "deliveryPreference": [
+        {
+          "deliveryDay": "Monday",
+          "deliveryWindow1Start": "01:50",
+          "deliveryWindow1End": "23:09",
+          "backdoorOpen": "02:00",
+          "backdoorClose": "23:33"
+        }
+      ],
+      "cuisineAndOperation": [
+        {
+          "typeOfCuisine": "BAKERY CAFE",
+          "typeOfOperation": "Education",
+          "localTypeOfOperation": "College/University"
+        },
+        {
+          "typeOfCuisine": "019",
+          "typeOfOperation": "Sysco Cincinnati",
+          "localTypeOfOperation": "College/University"
+        }
+      ],
+      "contactInfo": [
+        {
+          "firstName": "Megan",
+          "lastName": "Rachel",
+          "streetEmail": "uthpalathilini405@gmail.com",
+          "mobileNumber": "479-647-4944"
+        }
+      ],
+      "accountTypes": [
+        {
+          "accountType": "TRS"
+        },
+        {
+          "accountType": "OTH"
+        }
+      ],
+      "accountRoles": [
+        {
+          "accountRole": "Ship-To"
+        },
+        {
+          "accountRole": "Bill-To"
+        }
+      ],
+      "supportRequest": [
+        {
+          "supportRequestOwner": "SBS MDM Team Queue",
+          "status": "Submitted for Posting",
+          "caseRequestType": "Initiated",
+          "creditApplicationStatus": "Transmitted",
+          "creditApplicationStatusAfterApproval": "Approved"
+        }
+      ],
+      "accountInfo": [
+        {
+          "accountName": "Automation 123",
+          "accountStreet": "1577 Aaron Smith Drive",
+          "accountCity": "Harrisburg",
+          "accountState": "MA",
+          "accountPostalCode": "17111",
+          "accountCountry": "United States",
+          "accountPhone": "717-756-7826",
+          "accountGroup": "Trade Receivables"
+        },
+        {
+          "accountStreet": "Test 123Automation",
+          "accountCity": "Harrisburg",
+          "accountState": "MA",
+          "accountPostalCode": "17111",
+          "accountCountry": "United States",
+          "accountPhone": "717-756-7826",
+          "accountGroup": "Trade Receivables"
+        }
+      ],
+      "billToInfo": [
+        {
+          "billToAccountName": "Automation Bill To",
+          "billingStreet": "25 Emerald Dreams Drive",
+          "billingCity": "Burr Ridge",
+          "billingState": "MA",
+          "billingPostalCode": "60527",
+          "billingCountry": "United States",
+          "billToOwner": "TRS"
+        }
+      ]
+    }
+  }
+]
